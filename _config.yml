@@ -1,0 +1,14 @@
+layout_spectrum: 0.298472
+color:
+  saturation: 0.5750009
+  lightness: 0.7987354
+  brandStrength: 0.935078
+  brandColors:
+    - '#FFFFFF'
+    - '#7D7E7F'
+    - '#414342'
+    - '#0070AD'
+    - '#BDBEBD'
+  rhythmicContrast: 0.2211171
+typography_spectrum: 0.1187163
+name: Deep spine infection
